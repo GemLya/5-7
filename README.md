@@ -11,6 +11,7 @@ Ronda 3
 Ciclo 3.1 · ROJO: las pruebas
 
 <img width="1008" height="110" alt="image" src="https://github.com/user-attachments/assets/4d586003-5c37-4cf1-adcb-7a78185e6f1d" />
+
 Ciclo 3.2 · VERDE: el modelo
 
 <img width="650" height="65" alt="image" src="https://github.com/user-attachments/assets/461e0635-d58d-46d9-a1a2-89d33014e576" />
